@@ -18,6 +18,17 @@ To run this project, upload the main.ipynb notebook to Kaggle along with the pro
 - **NLLB Fine-tuning (PART2):** The fine-tuning process for the NLLB model may take up to 12 hours, which is the time limit of Kaggle.
 - **Archived Versions:** For the main.ipynb notebook and the technical report of the version when the last submission is made, please see archived.
 
+## Data Source
+
+This repository includes data derived from **FormosanBank**, subject to the following terms:
+
+- **No Commercial AI Use**: This dataset or any derivative works may not be used, in whole or in part, for the development, training, testing, or deployment of artificial intelligence systems intended for commercial purposes.
+- **License**: The annotations and metadata are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution is required for any redistribution or derived products.
+
+### Source Attribution
+
+> FormosanBank. [https://github.com/formosanbank/formosanbank](https://github.com/formosanbank/formosanbank)
+
 ###
 
 # Project Details
