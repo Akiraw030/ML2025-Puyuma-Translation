@@ -4,7 +4,6 @@
 
 This project is an entry for the ML2025 Spring Puyuma translation bonus competition on Kaggle.
 
-
 ## Environment
 
 - **Platform:** Kaggle
